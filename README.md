@@ -1,7 +1,7 @@
 ## Bespoke-Synth-Presonus-Atom
 > A set of prefabs and configs for the Presonus Atom Controller in the Bespoke Synth software.
 
-The [Bespoke Synth](https://www.bespokesynth.com/) software allows one to use their midi devices, however, there is no pre-made prefabs or configs built in for the Atom Controller. :pensive: So, one must create the configs and do the setup on their own, which could be a pain. In here I will add and update my configs and prefabs that I use with my Atom Controller.
+The [Bespoke Synth](https://www.bespokesynth.com/) software allows one to use their midi devices, however, there is no pre-made prefabs or configs built in for the Atom Controller. :pensive: So, one must create the configs and do the setup on their own, which could be a pain. In here I will add and update my configs and prefabs that I use with my Atom Controller based off the basic 4x4 pad config, while adding all the dials and other buttons.
 ***
 > [!IMPORTANT]
 > This does not yet have every input for the pad mapped yet just the 4x4.
