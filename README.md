@@ -5,7 +5,7 @@ The [Bespoke Synth](https://www.bespokesynth.com/) software allows one to use th
 ***
 > [!IMPORTANT]
 > This does not yet have every input for the pad mapped yet just the 4x4
-> > [!TIP]
+> [!TIP]
 > Check the Wiki page for install and usage instructions.
 ***
 
