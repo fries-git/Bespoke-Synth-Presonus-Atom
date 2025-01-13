@@ -5,6 +5,6 @@ The Bespoke Synth software allows one to use their midi devices, however, there 
 ***
 > [!IMPORTANT]
 > This does not yet have every input for the pad mapped yet.
-
+***
 
 ![The aforementioned Presonus pad.](https://www.presonus.com/cdn/shop/files/2777100101_pre_con_frt_1_nr.png?v=1729317677)
