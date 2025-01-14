@@ -10,4 +10,4 @@ The [Bespoke Synth](https://www.bespokesynth.com/) software allows one to use th
 > Check the Wiki page for install and usage instructions.
 ***
 > [!WARNING]
-> There are several known issues, the most notable being the top and bottom row of the pad both play the top and bottom notes regardless of which is hit, unless the left most dial is all the way to the right. Like what?
+> There are several known issues, the most notable being the top and bottom row of the pad both play the top and bottom notes regardless of which is hit, unless the left most dial is all the way to the right. Whether this be my hardware or my software, who knows.
