@@ -28,6 +28,24 @@
          "colors" : [ 0, 127],
          "messageType" : "control",
          "drawType" : "knob"
+      },
+      {
+         "rows": 6,
+         "cols": 1,
+         "position" : [ 140, 40 ],
+         "dimensions" : [18, 8],
+         "spacing" : [30, 10],
+         "controls" : [ 
+            87,
+            89,
+            90,
+            102,
+            103,
+            104
+         ],
+         "colors" : [ 0, 127],
+         "messageType" : "control",
+         "drawType" : "button"
       }
    ]
 }
